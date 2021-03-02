@@ -1,0 +1,38 @@
+body {
+    background-color: #E4F9F5;
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+    padding-bottom: 90px;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  color: #66BFBF;
+  margin-left: 375px;
+  margin-top: 90px;
+}
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  text-align: center;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #bbbbbb;
+  border-width: 11px;
+  width: 20%;
+  margin: 100px auto;
+}
+.tables {
+  margin-right: 300px;
+  margin-left: 300px;
+  line-height: 3;
+}
